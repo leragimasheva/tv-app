@@ -1,0 +1,8 @@
+.program-row {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.program-time {
+    width: 50px;
+}
